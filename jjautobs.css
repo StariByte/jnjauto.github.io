@@ -1,0 +1,46 @@
+
+.dad-blue {
+	/*background: rgba(0, 0, 99, 1.5);*/
+	/*background: rgba(101,115,126, 0.45);*/
+	background: rgba(85,85,85);
+}
+.carousel-positioning {
+	margin-top: 55px;
+
+}
+.carousel-inner {
+	max-height: 23rem;
+	width: 100%;
+	height: 100%;
+}
+.borderless {
+	border: none!important;
+}
+.navbar {
+	/*background-color: #000063;*/
+	background: rgba(3, 57, 108, 0.90);
+}
+.dad-card {
+	border: 1px solid rgba(3, 57, 108);
+	background: rgba(153,153,153, 0.30);
+	/*box-shadow: 0 1rem 3rem rgba(0,0,0,.25)!important;*/
+
+	}
+.card-body {
+	color: #03396C;
+	}
+/*.dad-card {
+		max-width: 30rem;
+	}*/
+.card-body {
+		min-height: 16rem;
+	}
+.hours {
+		font-size: .85rem;
+	}
+.hours-container {
+		background: rgba(153,153,153, 0.30);
+	}
+.jjb-nav {
+		font-size: .65rem;
+	}
